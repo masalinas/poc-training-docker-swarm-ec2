@@ -28,6 +28,10 @@ $ ssh -i TRAINING.pem ubuntu@ec2-3-233-233-241.compute-1.amazonaws.com
 $ ssh -i TRAINING.pem ubuntu@ec2-44-221-59-139.compute-1.amazonaws.com
 ```
 
+AWS Swarm Cluster infraestructure:
+
+![EC2 Swarm Infra](./images/ec2_swarm_infra.png "EC2 Swarm Infra")
+
 - **STEP4**: Edit the prompt to set the swarm node name
 
 Edit the file 
